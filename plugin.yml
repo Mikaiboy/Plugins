@@ -1,0 +1,5 @@
+name: Flamekits
+main: me.mikaiboy.kits.Kits
+version: 1.0
+commands:
+   kit:
